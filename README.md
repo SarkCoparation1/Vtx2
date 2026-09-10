@@ -12,10 +12,11 @@ sudo ./get-deps.sh
 komutunu giriniz ve sudo şifrenizi girerek bağımlılıkları yükleyebilirsiniz
 
 ## Gereksinimler:
-Depolama: 2 GB(tavsiye edilir)
-RAM: 256 MB(tavsiye edilir)
+Depolama: en az 2 GB(tavsiye edilir)
+RAM: en az 256 MB(tavsiye edilir)
 TPM: yok
 Disk: AHCI(Başka disk olmasın)
+İşlemci: 64-bit
 
 ## Nasıl derlenir?
 src/ klasörüne giderek şu komutları sırasıyla yapın:
