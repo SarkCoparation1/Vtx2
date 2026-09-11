@@ -13,9 +13,13 @@ komutunu giriniz ve sudo şifrenizi girerek bağımlılıkları yükleyebilirsin
 
 ## Gereksinimler:
 Depolama: en az 2 GB(tavsiye edilir)
+
 RAM: en az 256 MB(tavsiye edilir)
+
 TPM: yok
+
 Disk: AHCI(Başka disk olmasın)
+
 İşlemci: 64-bit
 
 ## Nasıl derlenir?
